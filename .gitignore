@@ -1,0 +1,7 @@
+target/
+.tools/
+sut/*
+*.7z
+*.zip
+*.class
+javac.*.args
